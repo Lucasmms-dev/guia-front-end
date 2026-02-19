@@ -20,7 +20,7 @@ Este projeto é um guia interativo e visual que explica as bases fundamentais do
 
 ## 🌐 Como visualizar
 O projeto está disponível online através do GitHub Pages. Podes aceder ao site em tempo real aqui:
-[COLA AQUI O LINK QUE O GITHUB PAGES GERAR]
+https://lucasmms-dev.github.io/guia-front-end/
 
 ---
 **Desenvolvido por Lucas Mendonça** 🚀
